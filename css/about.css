@@ -1,0 +1,108 @@
+/* CSS Document */
+@font-face {
+    font-family: 'CicleFina';
+    src: url('../fonts/Cicle_Fina-webfont.eot');
+    src: url('../fonts/Cicle_Fina-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Cicle_Fina-webfont.woff') format('woff'),
+         url('../fonts/Cicle_Fina-webfont.ttf') format('truetype'),
+         url('../fonts/Cicle_Fina-webfont.svg#CicleFina') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'CicleFinaItalic';
+    src: url('../fonts/Cicle_Fina_Italic-webfont.eot');
+    src: url('../fonts/Cicle_Fina_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Cicle_Fina_Italic-webfont.woff') format('woff'),
+         url('../fonts/Cicle_Fina_Italic-webfont.ttf') format('truetype'),
+         url('../fonts/Cicle_Fina_Italic-webfont.svg#CicleFinaItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'CicleGordita';
+    src: url('../fonts/Cicle_Gordita-webfont.eot');
+    src: url('../fonts/Cicle_Gordita-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Cicle_Gordita-webfont.woff') format('woff'),
+         url('../fonts/Cicle_Gordita-webfont.ttf') format('truetype'),
+         url('../fonts/Cicle_Gordita-webfont.svg#CicleGordita') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'CicleGorditaItalic';
+    src: url('../fonts/Cicle_Gordita_Italic-webfont.eot');
+    src: url('../fonts/Cicle_Gordita_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Cicle_Gordita_Italic-webfont.woff') format('woff'),
+         url('../fonts/Cicle_Gordita_Italic-webfont.ttf') format('truetype'),
+         url('../fonts/Cicle_Gordita_Italic-webfont.svg#CicleGorditaItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+/*########################################*/
+/*##############ABOUT STYLES##############*/
+/*########################################*/
+.paragraphs{
+	font-family: 'CicleFina';
+	font-size: 18px;
+	color: #666;	
+}
+
+.aboutTxt{
+	background-image: url(../images/about_txt.png);
+	width: 153px;
+	height: 57px;
+
+}
+
+.aboutBorder{
+	background-color: #999;
+	width: 2px;
+	height: 300px;
+	margin-top: 30px;
+	float: left;
+}
+
+.col1{
+	width: 400px;
+	height: 387px;
+	float: left;
+	padding: 7px 12px;
+	margin: 0px 0px 0px 0px;
+}
+.p1{
+	font-size: 14px;
+	margin-top: 0px;
+	margin-left: 40px;
+}
+.p2{
+	font-size: 14px;
+	margin-top: 0px;
+	margin-left: 40px;
+}
+.p3{
+	font-size: 14px;
+	margin-top: 57px;
+	padding-right: 40px;
+}
+.p4{
+	font-size: 14px;
+	margin-top: 0px;
+	padding-right: 40px;
+}
+
+.col2{
+	width: 400px;
+	height: 387px;
+	float: left;
+	padding: 7px 12px;
+	margin: 0px 0px 0px 0px;
+}

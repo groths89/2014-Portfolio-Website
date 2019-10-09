@@ -1,0 +1,76 @@
+/* CSS Document */
+body{font-family: 'BebasNeueRegular';}
+h1{font-family: 'BebasNeueRegular';}
+.contact{}
+#infoWrap{
+	float: left;
+	margin: 0px 62px;
+	width: 900px;
+	height: 100px;
+}
+#formWrap{
+	float: right;
+	width: 472px;
+	height: 218px;
+	background-image: url(../images/form_bg.png);
+	margin: 50px 100px 0px 0px;
+	padding: 10px 0px;
+}
+
+form{ width: 462px; height: 228px; margin: 0px auto; }
+
+Label{ display: inline; margin: 5px 0px 5px 20px; }
+	.labelone{ width:45px; margin-left: 0px;}
+	.labeltwo{ width:45px; }
+	.labelthree{ width:45px; margin-left: 12px;}
+	.labelfour{ width:45px; margin-left: 0px; }
+
+input{ width: 250px; }
+
+fieldset{ border: none; }
+
+#name_f{ width: 150px; }
+#name_l{ width: 150px; }
+#email{ width: 300px; }
+#msg{ border: solid 1px #CCC; margin-left: 0px; position: absolute; }
+
+
+.btn{
+	font-family: 'BebasNeueRegular';
+	width: 60px;
+	float: right;
+	margin-top: 80px;
+	margin-right: 10px;
+	border: 1px solid #F90;
+	background-color: #CCC;
+	color: #333;
+}
+.btn a:hover{
+	background-color: #F90;
+	color: #CCC;
+}
+
+#first{
+	float: left;
+	width: 300px;
+	text-align: center;
+}
+
+#middle{
+	float: left;
+	width: 300px;
+	text-align: center;
+}
+
+#last{
+	float: left;
+	width: 300px;
+	text-align: center;
+}
+
+.contactTxt{ width: 389px; float: left; margin: 50px 0px 93px 56px;}
+.contactHead{ width: 389px; height: 57px; }
+.contactSubHead{ width: 317px; height: 44px; margin-top: 45px; }
+.contactInfo{ width: 100%; height: auto; float: left; }
+.contactInfoLabels{ width: 100px; height: 100px; float: left; margin: 20px 0px 0px 50px;}
+.information{width: 312px; height: 100px; float: left; margin: 20px 0px 0px 10px;}

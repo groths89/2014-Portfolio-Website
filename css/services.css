@@ -1,0 +1,186 @@
+/* CSS Document */
+.sContent{ width: 1023px; height: 750px; float: left; padding-bottom: 15px; }
+.myServices{ margin: 10px 53px 0px 80px; width: 890px; float: left; }
+/*########################################*/
+/*##############WRAP STYLES###############*/
+/*########################################*/
+#navigateWrap{
+	width: 300px;
+	height: auto;
+	float: left;
+	margin-top: 20px;
+	margin-left: 70px;
+	margin-right: 70px;
+	margin-bottom: 0px;
+}
+#identityWrap{
+	width: 300px;
+	height: auto;
+	float: left;
+	margin-top: 20px;
+	margin-left: 70px;
+	margin-right: 70px;
+	margin-bottom: 0px;
+}
+#optimizeWrap{
+	width: 300px;
+	height: auto;
+	float: left;
+	margin-top: 20px;
+	margin-left: 70px;
+	margin-right: 70px;
+	margin-bottom: 0px;
+}
+#cmWrap{
+	width: 300px;
+	height: auto;
+	float: left;
+	margin-top: 20px;
+	margin-left: 70px;
+	margin-right: 70px;
+	margin-bottom: 0px;
+}
+
+/*########################################*/
+/*############ABOUT NAVIGATION############*/
+/*########################################*/
+.navigateAbout{
+	font-family: 'BebasNeueRegular';
+	width: 300px;
+	height: auto;
+	margin-top: 18px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding: 0px;
+	float: left;
+}
+
+.navigateAbout h1{
+	font-family: 'BebasNeueRegular';
+	margin: 0px;
+}
+
+.navigateAbout p{
+	font-family: 'Archivo Narrow', sans-serif;
+	margin: 0px;
+	color: #666;
+	text-align: center;
+}
+
+.imgAbout{
+	float: left;
+	width: 300px;
+	height: 187px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+/*########################################*/
+/*#############ABOUT IDENTITY#############*/
+/*########################################*/
+.identityAbout{
+	font-family: 'Archivo Narrow', sans-serif;
+	width: 300px;
+	height: auto;
+	margin: 5px 0px 0px 0px;
+	padding: 0px;
+	float: left;
+}
+
+.identityAbout h1{
+	font-family: 'Archivo Narrow', sans-serif;
+	margin: 0px;
+}
+
+.identityAbout p{
+	font-family: 'Archivo Narrow', sans-serif;
+	margin: 0px;
+	color: #666;
+	text-align: center;
+}
+
+.imgIdentity{
+	float: left;
+	width: 300px;
+	height: 200px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+/*########################################*/
+/*###########ABOUT OPTIMIZATION###########*/
+/*########################################*/
+.optimizeAbout{
+	font-family: 'Archivo Narrow', sans-serif;
+	width: 300px;
+	height: auto;
+	float: left;
+	margin-top: 35px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding: 0px;
+	float: left;
+}
+
+.optimizeAbout h1{
+	font-family: 'Archivo Narrow', sans-serif;
+	margin: 0px;
+}
+
+.optimizeAbout p{
+	font-family: 'Archivo Narrow', sans-serif;
+	margin: 0px;
+	color: #666;
+	text-align: center;
+}
+
+.imgOptimize{
+	float: left;
+	width: 300px;
+	height: 211px;
+	margin-top: 60px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+/*########################################*/
+/*########ABOUT CLIENT MANAGEMENT#########*/
+/*########################################*/
+.lastAbout{
+	font-family: 'Archivo Narrow', sans-serif;
+	width: 300px;
+	height: auto;
+	float: left;
+	margin: 18px 0px 0px 0px;
+	padding: 0px;
+}
+
+.lastAbout h1{
+	font-family: 'Archivo Narrow', sans-serif;
+	margin: 0px;
+}
+
+.lastAbout p{
+	font-family: 'Archivo Narrow', sans-serif;
+	margin: 0px;
+	color: #666;
+	text-align: center;
+}
+
+.imgLast{
+	float: left;
+	width: 294px;
+	height: 288px;
+	padding-left: 3px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
